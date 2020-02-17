@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": false,
+    "allowJs": false,
+    "moduleResolution": "node",
+    "rootDir": "./src/capture",
+    "outDir": "./dist",
+    "jsx": "react",
+    "types": ["react", "jest"],
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedLocals": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": ["es2015", "es2016", "dom"],
+    "declaration": true
+  },
+  "include": ["src/capture/index.ts"],
+  "exclude": ["node_modules/**/*", "src/**/*.test.tsx", "src/**/*.story.tsx", "test/**/*"]
+}
