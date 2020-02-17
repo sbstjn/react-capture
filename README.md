@@ -2,6 +2,8 @@
 
 Capture React component and download as PNG file using [html2canvas](https://github.com/niklasvh/html2canvas).
 
+![react-capture](screenshot.png)
+
 ## Install
 
 ```bash
