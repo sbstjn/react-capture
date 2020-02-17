@@ -1,6 +1,6 @@
 # react-capture
 
-> Capture React component and download as PNG file using [html2canvas](https://github.com/niklasvh/html2canvas).
+Capture React component and download as PNG file using [html2canvas](https://github.com/niklasvh/html2canvas).
 
 ## Install
 
